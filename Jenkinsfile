@@ -1,2 +1,2 @@
-dgfgdfdftest
-test1
+node(){
+}
