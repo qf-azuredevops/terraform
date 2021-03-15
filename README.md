@@ -5,3 +5,5 @@ terrform plan
 terraform apply
 
 terraform destroy
+
+terraform not destroy
