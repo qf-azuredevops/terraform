@@ -1,2 +1,4 @@
 node('terraform-label'){
+stage{
+}
 }
